@@ -1,4 +1,5 @@
-![Buzzfeed](https://user-images.githubusercontent.com/56406869/204099836-dbf26077-3d12-4ea2-abfc-f7c5cb84cf8e.png)
+![Buzzfeed](https://user-images.githubusercontent.com/56406869/204099930-b99d6f2b-1d82-4df9-ab72-1a742b0beef6.png)
+
 
 
 # ProjetoBuzzfeed
