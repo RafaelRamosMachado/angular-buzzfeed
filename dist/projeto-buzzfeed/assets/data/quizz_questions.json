@@ -1,0 +1,101 @@
+{
+  "title":"Você é de esquerda ou de direita?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você está feliz com o atual Governo?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"A"},
+        {"id": 2, "name":"Não", "alias":"B"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Você confia nas urnas eletrônicas ?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Você prefere o governo atual ou o que foi eleito?",
+      "options":[
+        {"id": 1, "name":"Governo atual", "alias":"A"},
+        {"id": 2, "name":"O governo que foi eleito", "alias":"B"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Você é a favor do aborto?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você é a favor da vacina?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Você acha que o STF interfere nos outros 2 poderes?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"A"},
+        {"id": 2, "name":"Não", "alias":"B"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Você é a favor de cotas?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Você é a favor do valor do fundo partidário?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "O que você acha do livre direito de se manifestar?",
+      "options":[
+        {"id": 1, "name":"Acho válido", "alias":"A"},
+        {"id": 2, "name":"Acho desnecessário", "alias":"B"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Você é a favor do desarmamento da população?",
+      "options":[
+        {"id": 1, "name":"Contra", "alias":"A"},
+        {"id": 2, "name":"Concorda", "alias":"B"},
+        {"id": 3, "name":"Não sei", "alias":"C"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente é de direita!",
+    "B": "Você muito provavelmente é de esquerda!",
+    "C": "Você muito provavelmente não quis opinar!"
+  }
+}
+
