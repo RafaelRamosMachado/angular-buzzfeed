@@ -1,3 +1,6 @@
+![Buzzfeed](https://user-images.githubusercontent.com/56406869/204099836-dbf26077-3d12-4ea2-abfc-f7c5cb84cf8e.png)
+
+
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
